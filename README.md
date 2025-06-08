@@ -6,4 +6,5 @@ A simple Python package for univariate analysis and visualization of categorical
 ## Installation
 
 ```bash
-pip install git+https://github.com/YOUR_USERNAME/univariateviz.git
+pip install git+https://github.com/priyanshu5943/univariateviz.git
+
